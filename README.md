@@ -16,7 +16,7 @@ The Chromedriver version needs to match your installed version of the Chrome bro
 
 This software comes with a chromedriver.exe suitable for Chrome version 104.
 If you use a different version of Google Chrome, you have to download the corresponding
-Chromedriver version from the <a href=https:**chromedriver.chromium.org/>Chromedriver homepage</a>, and replace 
+Chromedriver version from the <a href=https://chromedriver.chromium.org/>Chromedriver homepage</a>, and replace 
 chromedriver.exe in the "resources" subfolder (Note: when using the frozen version, the resources folder can be 
 found in the "gorealyzer_Win10" folder after unpacking the zipfiles in the "freeze" folder).
 
