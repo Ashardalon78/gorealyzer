@@ -40,7 +40,7 @@ USAGE
 -------------------
 * First, paste the url of the Google maps site of the site you want to analyze into the topmost text field.
 * The required url can easily be acquired in the following way:
-1. Go to https:**www.google.com/maps/
+1. Go to https://www.google.com/maps/
 2. Enter the name of your reqired site in the Google Maps search field
 3. When the location is shown, hit the link below the name of the site "xxx Reviews"
 4. Paste the url into the Gorealyzer text field
