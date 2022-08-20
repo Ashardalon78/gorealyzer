@@ -10,7 +10,7 @@ SETUP
 ------------------
 
 The software depends on the Chormedriver webdriver, which is available here:
-https:**chromedriver.chromium.org/
+https://chromedriver.chromium.org/
 
 The Chromedriver version needs to match your installed version of the Chrome browser.
 
